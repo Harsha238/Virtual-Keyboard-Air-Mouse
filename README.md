@@ -33,3 +33,17 @@ python key.py
 2. Your camera will activate, presenting a large 1600x900 window containing the Virtual Keyboard on the right.
 3. Bring your **left hand** in frame to control the mouse pointer. Pinch your thumb and index finger together to Left Click.
 4. Bring your **right hand** in frame and hover your index finger over the augment keyboard keys. Pinch your thumb and index together to type the letter!
+
+Requirements- 
+opencv-python
+mediapipe
+numpy
+pynput
+
+
+.gitignore
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
