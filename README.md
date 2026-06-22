@@ -34,16 +34,16 @@ python key.py
 3. Bring your **left hand** in frame to control the mouse pointer. Pinch your thumb and index finger together to Left Click.
 4. Bring your **right hand** in frame and hover your index finger over the augment keyboard keys. Pinch your thumb and index together to type the letter!
 
-Requirements- 
-opencv-python
-mediapipe
-numpy
+Requirements--
+opencv-python,
+mediapipe,
+numpy,
 pynput
 
 
-.gitignore
-venv/
-.venv/
-__pycache__/
-*.pyc
+.gitignore--
+venv/,
+.venv/,
+__pycache__/,
+*.pyc,
 .DS_Store
